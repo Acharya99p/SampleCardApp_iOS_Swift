@@ -2,13 +2,13 @@
 
 ## Features:
 
-*Easily usable
-*Swift 4.0
-*Simple Swift syntax
-*Cool flip animation
-*Customizable
-*Universal (iPhone & iPad)
-*Lightweight readable codebase
+- Easily usable
+- Swift 4.0
+- Simple Swift syntax
+- Cool flip animation
+- Customizable
+- Universal (iPhone & iPad)
+- Lightweight readable codebase
 
 ## How to deploy and run.
 
